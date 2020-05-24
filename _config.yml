@@ -2,7 +2,7 @@ name: "rusty shutter"
 permalink: /:year/:month/:day/:title.html
 
 author: "wayne"
-atom-baseurl: "http://lhzhang.com"
+atom-baseurl: "fathhh.github.io"
 disqus: "gopherwood"
 
 navigations:
