@@ -1,4 +1,12 @@
-## cat输出文件时会在末尾自动加上换行吗
+---
+title: cat输出文件时会在末尾自动加上换行吗
+layout: post
+tags:
+  - shell
+
+---
+
+## 
 
 > 今天带电脑来公司，想着加上 vscode remote authorized_keys，却发现只有最后的key生效，原本我以为ssh keychain抽风了，重置一次依然如旧。猛然输出authorized_keys发现只有一行。
 

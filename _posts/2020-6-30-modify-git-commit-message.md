@@ -1,24 +1,22 @@
 ---
-
-title: 修改已提交的commit
-
+title: 修改提交记录的信息
 layout: post
-
 tags:
+  - git
 
-  \- git
+---
 
-\---
 
-> 刚才打开github，发现新版的contributors多了两个人，于是查看了一下提交历史，多出的两项应该是我的另外两台电脑配置错误。于是查找修改commit的办法。
 
-### 常用的修改最近一次的 commit
+> 刚才打开github，发现新版的contributors多了两个人，于是查看了一下提交历史，多出的两项应该是我的另外两台电脑配置错误。于是查找修改commit的办法
+
+常用的修改最近一次的 commit
 
 ```bash
 git commit --amend --author="fat <fat@gmail.com>"
 ```
 
-## 对于提交历史中的办法，我找到了rebase
+对于提交历史中的办法，我找到了rebase
 
 rebase有个参数i，r:reword,可以修改commit message。然后还不止reword，p/r/e/s/f/x/d，这里需要用到e:edit.
 
