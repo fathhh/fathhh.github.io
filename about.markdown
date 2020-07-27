@@ -9,14 +9,14 @@ a
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/fathhh)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt \| tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo srvpqxfbyqfvpdtkbjwt \| tr yxwvtsrqpkjfdb fathhh@.
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [@null](https://twitter.com/)
 
 to reach me
