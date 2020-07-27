@@ -1,7 +1,7 @@
 name: "rusty shutter"
 permalink: /:year/:month/:day/:title.html
 
-author: "wayne"
+author: ""
 atom-baseurl: "fathhh.github.io"
 disqus: "gopherwood"
 
