@@ -83,7 +83,7 @@ ul.listing {
   li {
     list-style-type:none;
     padding: 0;
-    &.listing-item { a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; } }
+    &.listing-item { a { margin: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; } }
     &.listing-seperator { font-family: #{$label-font}; &:before { content: "⭠ "; color: #ccc; } }
   }
 }
