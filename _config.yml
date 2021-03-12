@@ -2,7 +2,7 @@ name: "rusty shutter"
 permalink: /:year/:month/:day/:title.html
 
 author: ""
-atom-baseurl: "fathhh.github.io"
+atom-baseurl: "liuchuanfengg.github.io"
 disqus: "gopherwood"
 
 navigations:
@@ -17,7 +17,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: http://photography.fathhh.xyz
+    href: http://photography.pangda.xyz
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
