@@ -1,8 +1,8 @@
-name: "rusty shutter"
+name: "leaf shutter"
 permalink: /:year/:month/:day/:title.html
 
 author: ""
-atom-baseurl: "liuchuanfengg.github.io"
+atom-baseurl: "unbelief.github.io"
 disqus: "gopherwood"
 
 navigations:
@@ -21,4 +21,3 @@ navigations:
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
-
