@@ -1,8 +1,8 @@
-name: "Unbelief"
+name: "from white"
 permalink: /:year/:month/:day/:title.html
 
 author: ""
-atom-baseurl: "unbelief.github.io"
+atom-baseurl: "fromwhite.github.io"
 disqus: "gopherwood"
 
 navigations:
@@ -17,7 +17,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: http://photography.pangda.xyz
+    href: http://photography.fromwhite.xyz
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml

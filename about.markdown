@@ -9,11 +9,11 @@ a
 
 who involved in 
 
-> [github](https://github.com/unbelief)
+> [github](https://github.com/fromwhite)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt \| tr yxwvtsrqpkjfdb fatliu@foxmail.com
+> echo from1white@gmail.com
 
 or follow 
 
