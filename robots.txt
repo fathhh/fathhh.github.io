@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_layouts/
+Disallow: /_post/
+Disallow: /media/
+Disallow: /about.html
