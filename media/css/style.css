@@ -130,7 +130,7 @@ header {
 ul.listing {
   margin-top: 1em; }
   ul.listing li {
-    list-style-type: none;
+    list-style-type: circle;
     padding: 0; }
     ul.listing li.listing-item a, ul.listing li.listing-item header #header h1 a, header #header h1 ul.listing li.listing-item a {
       margin: .2em 0 .2em 2em; }
@@ -139,7 +139,8 @@ ul.listing {
     ul.listing li.listing-item:hover {
       background-color: #f9f9f9; }
     ul.listing li.listing-seperator {
-      font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
+      font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; 
+      list-style-type: none; }
       ul.listing li.listing-seperator:before {
         content: "⭠ ";
         color: #ccc; }
